@@ -9,4 +9,4 @@ Some references from Nathan Weibe's talk on November 15, 2017
 - [Can small quantum systems learn?](https://arxiv.org/pdf/1512.03145.pdf)
 - [Nathan's Google Scholar page](https://scholar.google.com/citations?user=DSgKHOQAAAAJ&hl=en)
 - [Quantum Perception Models](https://arxiv.org/pdf/1602.04799.pdf)
-
+- [Nathan's Slides](https://onedrive.live.com/view.aspx?resid=82C3B5BD9B634523!31079&ithint=file%2cpptx&app=PowerPoint&authkey=!AE8l1p9LdFA-GiE)
